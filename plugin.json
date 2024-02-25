@@ -4,7 +4,7 @@
     "description": "Change the default site avatar with a custom one",
     "fields": [
         {
-            "field": "site.author.avatar",
+            "field": "author.avatar",
             "label": "Put here the URL of the custom avatar",
             "type": "text"
         }
