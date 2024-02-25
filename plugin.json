@@ -6,7 +6,7 @@
         {
             "field": "author.avatar",
             "label": "Put here the URL of the custom avatar",
-            "type": "text"
+            "type": "string"
         }
     ]
 }
