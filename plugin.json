@@ -1,0 +1,12 @@
+{
+    "version": "1.0.1",
+    "title": "Tiny theme add-on: Custom Site avatar",
+    "description": "Change the default site avatar with a custom one",
+    "fields": [
+        {
+            "field": "site.author.avatar",
+            "label": "Put here the URL of the custom avatar",
+            "type": "text"
+        }
+    ]
+}
